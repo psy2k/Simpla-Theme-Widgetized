@@ -1,3 +1,4 @@
-Simpla is licensed under a creative commons attribution-sharealike license.
-If you use it, you should retain the links in the footer that link back to Phu 
-and Nikolaos Maounis.
+Licence
+==========
+Simpla is licensed under a Creative Commons Attribution-ShareAlike License, which means 
+that you can use Simpla widgetized for free and just give a link back to Phu and me!
