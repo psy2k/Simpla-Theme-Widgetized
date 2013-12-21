@@ -1,4 +1,4 @@
 Licence
 ==========
-Simpla is licensed under a Creative Commons Attribution-ShareAlike License, which means 
+Simpla is licensed under a Creative Commons Attribution-ShareAlike License (http://creativecommons.org/licenses/by-sa/2.5/), which means 
 that you can use Simpla widgetized for free and just give a link back to Phu and me!
