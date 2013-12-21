@@ -9,3 +9,5 @@ Licence
 ==========
 Simpla is licensed under a Creative Commons Attribution-ShareAlike License, which means 
 that you can use Simpla widgetized for free and just give a link back to Phu and me!
+
+You can find the instructions for widgetizing any theme in my blog post: http://blog.typpz.com/2007/11/20/customizing-simpla-theme/
